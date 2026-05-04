@@ -31,6 +31,15 @@ See how the AI analyzes real-world DevOps failures in seconds:
 
 ## Overview
 
+The AI DevOps Error Analyzer helps engineers quickly diagnose:
+
+- Docker failures
+- Nginx reverse proxy errors
+- AWS ECS task crashes
+- CI/CD pipeline issues
+- Node.js application errors
+- Linux service failures
+
 ## Why This Tool Exists
 
 DevOps engineers often spend significant time manually analyzing logs and tracing infrastructure issues across multiple systems.
@@ -188,14 +197,11 @@ The following flows were tested in production:
 
 ## Author
 
-
 **Demarko Little**  
 DevOps Engineer | Full-Stack Developer | Cloud & AI Builder
 
-- AWS Solutions Architect Certified
-- Experienced in building and deploying scalable cloud applications
-- Specializes in CI/CD pipelines, Docker, and production infrastructure
-- Focused on AI-powered tools for real-world engineering workflows
+- GitHub: https://github.com/dlittle-source  
+- LinkedIn: https://linkedin.com/in/demarkol
 
 ---
 
